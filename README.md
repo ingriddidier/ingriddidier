@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ingriddidier
 - 👀 I’m interested in Design, Fron-End Development and Marketing.
-- 🌱 I’m currently learning HTML/ CSS3/JavaScript
+- 🌱 I’m currently learning HTML/ CSS3/JavaScript/ QA/ Agile Methods.
 - 💞️ I’m looking to improve my skills and new job opportunities
 
 <!---
